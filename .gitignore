@@ -27,4 +27,5 @@ pats.txt
 .env
 
 # Storage Folder
-storage
+/storage
+/config
