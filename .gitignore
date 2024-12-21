@@ -25,3 +25,6 @@ pats.txt
 
 # env file
 .env
+
+# Storage Folder
+storage
